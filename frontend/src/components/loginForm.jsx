@@ -38,7 +38,7 @@ function LoginForm() {
       <form onSubmit={handleLogin}>
         <input
           onChange={handleSetLoginForm}
-          type="text"
+          type="email"
           name="email"
           placeholder="Enter Your Email ID"
         />

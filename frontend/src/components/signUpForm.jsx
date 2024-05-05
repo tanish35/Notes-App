@@ -34,7 +34,7 @@ function SignUpForm() {
       <form onSubmit={handleSignUp}>
         <input
           onChange={handleSetSignUpForm}
-          type="text"
+          type="email"
           name="email"
           placeholder="Enter Your Email ID"
         />
