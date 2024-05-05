@@ -1,4 +1,3 @@
-Certainly! Below is a sample README file for your MERN stack app with JWT authentication and handling multiple users:
 
 ````
 # MERN Stack App with JWT Authentication
